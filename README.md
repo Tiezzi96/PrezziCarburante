@@ -11,7 +11,7 @@ L'idea è creare un'applicazione che gestisca una community di condivisione dei 
 - [ ] aggiornare con facilità i prezzi di ogni stazione di rifornimento tramite l'accesso all'applicazione
 - [ ] aggiungere o rimuovere i pin sulla mappa a seconda di un'eventuale apertura o chiusura di una stazione di servizio
 
-Al termine della fase di sviluppo, saranno eseguiti *usability test* per risolvere eventuali errori di sistema e dimostrare il raggiungimento degli obiettivi prefissati. I risultati ottenuti saranno riportati nella relazione finale. 
+Al termine della fase di sviluppo, saranno eseguiti *usability test* per verificare il livello di apprezzamento da parte di utenti arbitrari nei confronti dell'applicazione. I risultati ottenuti saranno riportati nella relazione finale. 
 
 ## Dati necessari
 Per realizzare il progetto è necessario disporre di:
