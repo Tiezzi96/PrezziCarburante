@@ -19,6 +19,8 @@ Per realizzare il progetto è necessario disporre di:
 - un dispositivo di tipo Android (smartphone, tablet, ...)
 - API di gestione di mappe gratuite
 
+## MockUp
+
 ## Ambiente di sviluppo
 L'applicazione sarà sviluppata in linguaggio Java sfruttando l'IDE per applicazioni android **AndroidStudio**.
 
