@@ -20,8 +20,8 @@ Per realizzare il progetto è necessario disporre di:
 - API di gestione di mappe gratuite
 
 ## MockUp
-<img src="https://github.com/Tiezzi96/PrezziCarburante/blob/main/app2.PNG?raw=true" width="50%" />
-![alt text](https://github.com/Tiezzi96/PrezziCarburante/blob/main/app2.PNG?raw=true)
+<img src="https://github.com/Tiezzi96/PrezziCarburante/blob/main/app1.PNG?raw=true" width="75%" />
+<img src="https://github.com/Tiezzi96/PrezziCarburante/blob/main/app2.PNG?raw=true" width="75%" />
 
 
 
