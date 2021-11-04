@@ -26,17 +26,20 @@ Di seguito viene presentato il mockup dell'applicazione:
 
 ## Personas
 Sono state individuate le seguenti **personas**:
-- Nome: Susanna
-- Data di Nascita: 18/04/1962
-- Residenza: Firenze
-- Professione: Vicepreside
-- Lavoro: Susanna è un'insegnante che svolge la funzione di vicario del dirigente scolastico, lavora presso un'istituto comprensivo esterno al proprio comune di residenza. Durante la giornata lavorativa è solita percorrere diversi chilometri per raggiungere l'istituto e predilige percorrere strade a rapido scorrimento. è proprietaria di una utilitaria Fiat Punto a gasolio.
 
-- Nome: Manuel
-- Data di Nascita: 13/06/1998
-- Residenza: Prato
-- Professione: Dipendente privato
-- Lavoro: Manuel è un giovane dipendente per una ditta di materiali edili. Tale azienda si trova al di fuori del suo comune di residenza. Il suo lavoro può richiedere di lavorare al banco o di effettuare consegne a clienti o aziende private. Per le consegne può utilizzare furgoni di piccola taglia o camion di medie dimensioni. L'itinerario delle consegne è variabile. L'azienda fornisce mensilmente al dipendente buoni benzina da poter spendere stazioni di senvizio con gestore Eni.
+**1**
+- **Nome**: Susanna
+- **Data di Nascita**: 18/04/1962
+- **Residenza**: Firenze
+- **Professione**: Vicepreside
+- **Lavoro**: Susanna è un'insegnante che svolge la funzione di vicario del dirigente scolastico, lavora presso un'istituto comprensivo esterno al proprio comune di residenza. Durante la giornata lavorativa è solita percorrere diversi chilometri per raggiungere l'istituto e predilige percorrere strade a rapido scorrimento. è proprietaria di una utilitaria Fiat Punto a gasolio.
+
+**2**
+- **Nome**: Manuel
+- **Data di Nascita**: 13/06/1998
+- **Residenza**: Prato
+- **Professione**: Dipendente privato
+- **Lavoro**: Manuel è un giovane dipendente per una ditta di materiali edili. Tale azienda si trova al di fuori del suo comune di residenza. Il suo lavoro può richiedere di lavorare al banco o di effettuare consegne a clienti o aziende private. Per le consegne può utilizzare furgoni di piccola taglia o camion di medie dimensioni. L'itinerario delle consegne è variabile. L'azienda fornisce mensilmente al dipendente buoni benzina da poter spendere stazioni di senvizio con gestore Eni.
 
 
 ## Ambiente di sviluppo
