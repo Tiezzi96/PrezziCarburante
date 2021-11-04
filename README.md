@@ -22,6 +22,9 @@ Per realizzare il progetto è necessario disporre di:
 ## MockUp
 ![alt text](https://github.com/Tiezzi96/PrezziCarburante/blob/main/app1.PNG?raw=true)
 
+![alt text](https://github.com/Tiezzi96/PrezziCarburante/blob/main/app2.PNG?raw=true)
+
+
 
 ## Ambiente di sviluppo
 L'applicazione sarà sviluppata in linguaggio Java sfruttando l'IDE per applicazioni android **AndroidStudio**.
