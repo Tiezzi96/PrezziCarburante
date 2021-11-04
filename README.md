@@ -20,7 +20,7 @@ Per realizzare il progetto è necessario disporre di:
 - API di gestione di mappe gratuite
 
 ## MockUp
-![alt text](https://github.com/Tiezzi96/PrezziCarburante/blob/main/app1.jpg?raw=true)
+![alt text](https://github.com/Tiezzi96/PrezziCarburante/blob/main/app1.JPG?raw=true)
 
 
 ## Ambiente di sviluppo
