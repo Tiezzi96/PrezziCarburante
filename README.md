@@ -42,10 +42,14 @@ Sono state individuate le seguenti **personas**:
 - **Professione**: Dipendente privato
 - **Lavoro**: Manuel è un giovane dipendente per una ditta di materiali edili. Tale azienda si trova al di fuori del suo comune di residenza. Il suo lavoro può richiedere di lavorare al banco o di effettuare consegne a clienti o aziende private. Per le consegne può utilizzare furgoni di piccola taglia o camion di medie dimensioni. L'itinerario delle consegne è variabile. L'azienda fornisce mensilmente al dipendente buoni benzina da poter spendere in stazioni di senvizio con gestore Eni.
 -- **Tempo Libero**: Manuel è solito frequentare amici di infanzia che abitano nel suo stesso comune. Ha una relazione ed esce  abitualmente il sabato sera. Predilige visitare città o centri commerciali, frequentare discoteche.
+
 ## Scenari
+
 **1**
 - **Personas**: Manuel
 - **Descrizione**: Manuel sta effettuando una consegna per la ditta per cui lavora. Durante il percorso necessita di fermarsi per fare rifornimento. Poichè la sua azienda gli fornisce dei buoni carburante, Manuel predilige rifornirsi presso i gestori convenzionati. Utilizzando l'applicazione è in grado di individuare il distributore più vicino che gli consenta di utilizzare il buono.
+
+
 **2**
 - **Personas**: Susanna
 - **Descrizione**: Susanna si sta recando da una sua amica la domenica pomeriggio. Ha intenzione di intraprendere una lunga camminata in mezzo alla natura. Entrambe hanno deciso di utilizzare un unico mezzo di trasporto è dividere la spesa del carburante. Scaricando l'applicazione sono in grado di individuare il distributore più vicino con il prezzo più basso. 
