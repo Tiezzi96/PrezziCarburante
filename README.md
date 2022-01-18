@@ -32,7 +32,8 @@ Sono state individuate le seguenti **personas**:
 - **Data di Nascita**: 18/04/1962
 - **Residenza**: Firenze
 - **Professione**: Vicepreside
-- **Lavoro**: Susanna è un'insegnante che svolge la funzione di vicario del dirigente scolastico, lavora presso un'istituto comprensivo esterno al proprio comune di residenza. Durante la giornata lavorativa è solita percorrere diversi chilometri per raggiungere l'istituto e predilige percorrere strade a rapido scorrimento. è proprietaria di una utilitaria Fiat Punto a gasolio.
+- **Lavoro**: Susanna è un'insegnante che svolge la funzione di vicario del dirigente scolastico, lavora presso un'istituto comprensivo esterno al proprio comune di residenza. Durante la giornata lavorativa è solita percorrere diversi chilometri per raggiungere l'istituto e predilige percorrere strade a rapido scorrimento. è proprietaria di una utilitaria Fiat Punto a gasolio. 
+- **Tempo Libero**: Susanna ha stretto amicizia con sue colleghe di lavoro, che risiedono al di fuori del suo comune. Le piace fare jogging ma predilige le lunghe camminate in compagnia delle amiche.
 
 **2**
 - **Nome**: Manuel
@@ -40,6 +41,14 @@ Sono state individuate le seguenti **personas**:
 - **Residenza**: Prato
 - **Professione**: Dipendente privato
 - **Lavoro**: Manuel è un giovane dipendente per una ditta di materiali edili. Tale azienda si trova al di fuori del suo comune di residenza. Il suo lavoro può richiedere di lavorare al banco o di effettuare consegne a clienti o aziende private. Per le consegne può utilizzare furgoni di piccola taglia o camion di medie dimensioni. L'itinerario delle consegne è variabile. L'azienda fornisce mensilmente al dipendente buoni benzina da poter spendere in stazioni di senvizio con gestore Eni.
+-- **Tempo Libero**: Manuel è solito frequentare amici di infanzia che abitano nel suo stesso comune. Ha una relazione ed esce  abitualmente il sabato sera. Predilige visitare città o centri commerciali, frequentare discoteche.
+## Scenari
+**1**
+- **Personas**: Manuel
+- **Descrizione**: Manuel sta effettuando una consegna per la ditta per cui lavora. Durante il percorso necessita di fermarsi per fare rifornimento. Poichè la sua azienda gli fornisce dei buoni carburante, Manuel predilige rifornirsi presso i gestori convenzionati. Utilizzando l'applicazione è in grado di individuare il distributore più vicino che gli consenta di utilizzare il buono.
+**2**
+- **Personas**: Susanna
+- **Descrizione**: Susanna si sta recando da una sua amica la domenica pomeriggio. Ha intenzione di intraprendere una lunga camminata in mezzo alla natura. Entrambe hanno deciso di utilizzare un unico mezzo di trasporto è dividere la spesa del carburante. Scaricando l'applicazione sono in grado di individuare il distributore più vicino con il prezzo più basso. 
 
 
 ## Ambiente di sviluppo
