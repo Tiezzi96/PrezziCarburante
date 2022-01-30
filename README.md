@@ -41,7 +41,7 @@ Sono state individuate le seguenti **personas**:
 - **Residenza**: Prato
 - **Professione**: Dipendente privato
 - **Lavoro**: Manuel è un giovane dipendente per una ditta di materiali edili. Tale azienda si trova al di fuori del suo comune di residenza. Il suo lavoro può richiedere di lavorare al banco o di effettuare consegne a clienti o aziende private. Per le consegne può utilizzare furgoni di piccola taglia o camion di medie dimensioni. L'itinerario delle consegne è variabile. L'azienda fornisce mensilmente al dipendente buoni benzina da poter spendere in stazioni di senvizio con gestore Eni.
--- **Tempo Libero**: Manuel è solito frequentare amici di infanzia che abitano nel suo stesso comune. Ha una relazione ed esce  abitualmente il sabato sera. Predilige visitare città o centri commerciali, frequentare discoteche.
+- **Tempo Libero**: Manuel è solito frequentare amici di infanzia che abitano nel suo stesso comune. Ha una relazione ed esce  abitualmente il sabato sera. Predilige visitare città o centri commerciali, frequentare discoteche.
 
 ## Scenari
 
