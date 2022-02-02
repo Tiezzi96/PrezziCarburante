@@ -59,4 +59,4 @@ Sono state individuate le seguenti **personas**:
 L'applicazione sarà sviluppata in linguaggio Java sfruttando l'IDE per applicazioni android **AndroidStudio**.
 
 ## Difficoltà 
-L'applicazione potrebbe risultare inefficiente nel caso di inserimento di informazioni errate riguardanti il prezzo del carburante o l'ubicazione delle stazioni stesse.
+L'applicazione può risultare inefficiente nel caso non siano garantiti i permessi per l'accesso alla posizione del dispositivo.
